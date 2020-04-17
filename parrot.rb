@@ -3,4 +3,4 @@
 def parrot
   puts "squawk!"
 end
-squawk
+parrot
